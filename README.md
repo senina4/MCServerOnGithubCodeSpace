@@ -1,6 +1,6 @@
 # Minecraft-Server-On-Github-CodeSpaces
 Run Your Own Minecraft Server On Github CodeSpaces
-This is a guide for github codespace.
+This is a guide for Minecraft on Github Codespace.
 
 - [Minecraft Server On Github CodeSpaces](#Minecraft-Server-On-Github-CodeSpaces)
   - [Install](#install)
@@ -50,7 +50,10 @@ java -Xms2G -Xmx2G -jar {File Name}.jar nogui
 
 
 ## Download Ngrok
-[Ngrok](https://dashboard.ngrok.com/get-started/setup)
+Download [Ngrok](https://dashboard.ngrok.com/get-started/setup) first.
+<img src="https://github.com/senina4/MC-Server-On-Github-CodeSpaces/raw/main/IMG_0266.jpeg"/>
+
+Upload to Codspace.
 ```
 tar zxvf {filename}.tgz
 ./ngrok config add-authtoken <token>
