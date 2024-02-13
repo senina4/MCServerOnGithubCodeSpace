@@ -23,9 +23,9 @@ sudo apt-get update
 ```
 
 ### Install-JDK
-And install JDK: ([Newest Version](https://www.oracle.com/tw/java/technologies/downloads/))
+And install JDK: ([Newest Version](https://openjdk.org/install/))
 ```
-sudo apt install openjdk-{Version}-jre-headless
+sudo apt-get install openjdk-7-jre
 ```
 
 ## Install-Minecraft-server
